@@ -4,9 +4,9 @@
 Pengumpulan Proyek Akhir : Program Sistem Informasi Stasiun
 
 # Anggota
-Nama : Muhammad Nur Hanif & Rangga Restu Ramadhani
 
-NIM : 123200123 & 123200124
+- Muhammad Nur Hanif (123200123)
+- Rangga Restu Ramadhani (123200124)
 
 Kelas : PBO IF-F
 
